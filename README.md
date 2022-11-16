@@ -10,7 +10,7 @@ in the directory where your composer.json lives.
 ### Creating your own bundle
 
 ##### Requirements
-- [GitHub](https://github.com/login) account or organization
+- [GitHub](https://github.com/login) account or organization 
 - [Packagist](https://packagist.org/login/) account
 - [Composer](https://getcomposer.org/download/) or if your project is dockerized, [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
